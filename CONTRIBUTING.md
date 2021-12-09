@@ -7,4 +7,4 @@ Working on your first Pull Request? Refer [First Contribution Guide](https://git
 ```md
 | [kaproj](https://github.com/user/kaproj) | Description | language badge |
 ```
-3. Create a pull request.
+3. Create a Pull Request.
