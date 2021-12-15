@@ -13,5 +13,4 @@ KApplications list.
 
 
 ## Other Links
-* [![Discord](https://img.shields.io/badge/kaserver-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/umXVyvMdbN)
 * [KApps Forum](https://kapps.camroku.xyz/)
